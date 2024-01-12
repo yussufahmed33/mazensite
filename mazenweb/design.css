@@ -1,0 +1,84 @@
+body{
+    background-image: url(/329648942_1314406902470540_569049047033208823_n.jpg);
+    background-position-x: -300px;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-size: auto;
+
+
+}
+.user , .mail , .pass{
+    
+    border-style: dashed;
+border-radius: 10px;
+border-color: darkslategrey;
+padding-top: 5px;
+
+
+}
+.user{
+margin: 10px;
+margin-top: 40px;
+
+/* padding: 10px; */
+
+
+
+
+}
+.mail{
+    margin: 10px;
+    
+    margin-top: 40px;
+
+}
+.pass{
+    margin:10px;
+   
+    margin-top: 40px;
+    
+
+}
+
+
+h2{
+    font-weight: bolder;
+    font-size: 50px;
+}
+form{
+    background-image: url(/329648942_1314406902470540_569049047033208823_n.jpg);
+    border-style: solid;
+    border-color: aquamarine;
+    border-radius: 5px;
+    width: fit-content;
+    height: 500px;
+    margin-left: 40%;
+    opacity: 60%;
+    border-width: 10px;
+    background-size: contain;
+   border-radius: 100px;
+ 
+}
+header{
+    font-size: 100px;
+    font-family: fantasy;
+    text-align: center;
+    
+}
+h1 , p{
+    margin-left: 50px;
+}
+hr{
+    color: blue;
+    cursor: context-menu;
+}
+.submit{
+    background-color: #00FFD8;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100px;
+    margin-left: 20%;
+    margin-top: 30px;
+
+}
